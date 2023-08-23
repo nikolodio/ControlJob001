@@ -19,30 +19,28 @@ string[] GetArray(int size) //array creation method
 void PrintArray(string[] arrayString) //array print method
 {
     for (int i = 0; i < arrayString.Length; i++)
-    {
-        Console.Write(arrayString[i] + "\t");   
-    }
+    Console.Write(arrayString[i] + "\t");
 }
 
 string[] ChangeArray(string[] stringArray) //search method and array element by task condition
 {
-    int n = 0;
+    int count = 0;
     for (int i = 0; i < stringArray.Length; i++)
     {
         if (stringArray[i].Length <= 3)
-            n++;
+            count++;
     }
-    string[] rez = new string[n];
-    int j = 0;
+    string[] result = new string[count];
+    int newElem = 0;
     for (int i = 0; i < stringArray.Length; i++)
     {
         if (stringArray[i].Length <= 3)
         {
-            rez[j] = stringArray[i];
-            j++;
+            result[newElem] = stringArray[i];
+            newElem++;
         }
     }
-    return rez;
+    return result;
 }
 
 string[] arrSymbol = GetArray(5);
