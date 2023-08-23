@@ -1,0 +1,15 @@
+D:\Arbeiten\ControlJob001\ControlJob\bin\Debug\net6.0\ControlJob.exe
+D:\Arbeiten\ControlJob001\ControlJob\bin\Debug\net6.0\ControlJob.deps.json
+D:\Arbeiten\ControlJob001\ControlJob\bin\Debug\net6.0\ControlJob.runtimeconfig.json
+D:\Arbeiten\ControlJob001\ControlJob\bin\Debug\net6.0\ControlJob.dll
+D:\Arbeiten\ControlJob001\ControlJob\bin\Debug\net6.0\ControlJob.pdb
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ControlJob.csproj.AssemblyReference.cache
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ControlJob.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ControlJob.AssemblyInfoInputs.cache
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ControlJob.AssemblyInfo.cs
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ControlJob.csproj.CoreCompileInputs.cache
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ControlJob.dll
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\refint\ControlJob.dll
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ControlJob.pdb
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ControlJob.genruntimeconfig.cache
+D:\Arbeiten\ControlJob001\ControlJob\obj\Debug\net6.0\ref\ControlJob.dll
